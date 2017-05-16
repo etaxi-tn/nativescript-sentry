@@ -1,0 +1,10 @@
+{
+  "name": "nativescript-sentry",
+  "version": "0.0.0",
+  "nativescript": {
+    "platforms": {
+      "ios": "2.5.0",
+      "android": "2.5.0"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+
+android {
+    productFlavors {
+        "nativescript-sentry" {
+            dimension "nativescriptsentry"
+        }
+    }
+}
+
+dependencies {
+    compile 'com.getsentry.raven:raven-android:7.8.6'
+}
